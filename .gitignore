@@ -13,6 +13,6 @@
 /tmp
 *.pyc
 *.csv
-*/napaonline-server.backup
+*.backup
 /test_spiders
 # Ignore application configuration
